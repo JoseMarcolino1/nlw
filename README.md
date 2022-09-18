@@ -1,18 +1,18 @@
-# NLW eSports 
+# NLW eSports
 
-![preview](./preview.png)
+![preview](./.github/preview.png)
 
-> Trilha Explorer
+Trilha Explorer
 
-Projeto feito no evento da Rocketseat o Next Level Week(nlw).
+Projeto construído no evento Next level Week da Rocketseat.
 
-[Clique aqui para acessar](https://JoseMarcolino1.github.io/nlw-esports-explorer)
+[🔗 Clique aqui para acessar o projeto.] (https://josemarcolino1.github.io/nlw-esports-explorer/)
 
+## 💻 Tecnologias:
 
-## 💻 Tecnologias 
 - HTML
 - CSS
 - Git e Github
 
-## Contato
+## 🖤 Contato
 josetyu52@gmail.com
